@@ -10,6 +10,7 @@ name = "--" # substitute -- with repository name.
 system ("./ManualStudy.rb #{Repository_path} #{Repo_type} #{confidential_level} #{margine_of_error} #{p_value} #{name}")
 
 # example:
+# Testing
 #Repository_path = "/Users/arwa/Documents/Projects/iaextractor"  
 #Repo_type = ".git"
 #confidential_level = 95
