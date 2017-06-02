@@ -11,7 +11,6 @@ system ("./ManualStudy.rb #{Repository_path} #{Repo_type} #{confidential_level} 
 
 # example:
 # Another testing
-# trying something
 #Repository_path = "/Users/arwa/Documents/Projects/iaextractor"  
 #Repo_type = ".git"
 #confidential_level = 95
